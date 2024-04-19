@@ -1,4 +1,4 @@
-# Yahoo Finance Connector
+# Alpaca News Connector
 
 This script is an example of Alpaca News connector that retrieves 
 news from Alpaca in real-time. This is based on websockets and bytewax 
